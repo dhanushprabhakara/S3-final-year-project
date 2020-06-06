@@ -1,20 +1,31 @@
 # S3-final-year-project
 
 Requirements:
+
 Software: Matlab R2013
+
 Hardware: 4gb RAM
 
 # The simplest way to setup Matlab is to run "SetupSimple.exe".
 
 To install follow these steps:
+
 Step 1: Download MATLAB R2013a
+
 First of the Matlab r2013a Download or buy Matlab software from MathWorks official website. Also, you can download source image ISO or required files search on google and download it. After download save in your computer space of drive partition. 
+
 Step 2: Run setup.exe
+
 Open the “setup.exe” application file (or "bin\win32\setup.exe" to install 32-bit Matlab under 64-bit Windows) if you can see the user control notice click Yes. When you see first setup windows wait for 1-2 minutes then it automatically opens the install windows.
+
 Step 3: Install MathWorks Software for activation
+
 Then open the MathWorks installer window and choose the option “Install without using the internet” and click Next.
+
 Step 4: Review the Software License Agreement
+
 After clicking next, we see the license terms agreement of Matlab then click Yes and Next.
+
 Step 5:  Select File Installation
 When displayed File installation key window, then Enter the serial number or valid license key i.e “25716-63335-16746-06072” and click Next.
 Step 6: Choose Installation Type
