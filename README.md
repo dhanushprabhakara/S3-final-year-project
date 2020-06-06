@@ -80,8 +80,10 @@ Open the Matlab from your desktop .
 
 Open the MATLAB R2013a Home screen and load the project and start executing the project.
 
+# Note:
+
 At the end of setup process when you will be asked for activation - select "Cancel".
 If this activation question will appear again when you start Matlab program 
-please activate Matlab manually according to steps 5-6 in the list below.
+please activate Matlab manually according to steps 12-14 in the list below.
 
-If simplified setup does not work for you - just execute steps 1-18 manually.
+If simplified setup does not work for you - just execute steps 1-14 manually.
