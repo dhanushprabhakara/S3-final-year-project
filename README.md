@@ -2,7 +2,7 @@
 
 # Requirements:
 
-Software: Matlab R2013
+Software: Matlab R2013a
 
 Hardware: 4gb RAM
 
